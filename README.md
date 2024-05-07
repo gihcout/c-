@@ -6,9 +6,8 @@ Comandos e aplicações básicas realizadas em aula.
 ```c++
 #include <iostream>
 
-int main()
-{
-    std::cout<<"Hello World";
+int main() {
+    std::cout<<"Hello World" << std::endl;;
     return 0;
 }
 ```
