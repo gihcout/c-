@@ -1,13 +1,14 @@
 <img align="center" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 Comandos e aplicações básicas realizadas em aula.
 
+&nbsp;
+
 ```c++
 #include <iostream>
 
 int main()
 {
     std::cout<<"Hello World";
-
     return 0;
 }
 ```
