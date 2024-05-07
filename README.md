@@ -12,7 +12,7 @@ int main() {
 }
 ```
 
-#
+&nbsp;
 
 ### Calculadora de Reajuste Salarial
 
